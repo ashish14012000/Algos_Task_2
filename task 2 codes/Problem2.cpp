@@ -92,3 +92,5 @@ int main()
 
   cout<<max(g,n)<<endl; // printing the maximum value after all updates //
 }
+
+/* Time complexity overall = O(nlogn) */
